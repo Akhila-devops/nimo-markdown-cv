@@ -3,9 +3,6 @@ layout: cv
 title: Akhila
 email:
   text: akhilaavadutha6892@gmail.com
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
 ---
 
 # Akhila**
